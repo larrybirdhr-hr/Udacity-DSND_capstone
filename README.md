@@ -4,15 +4,15 @@ This repository is to host the Udacity Capston project. The Starbucks projected 
 ## Project Overview
 This data set contains simulated data that mimics customer behavior on the Starbucks rewards mobile app. Once every few days, Starbucks sends out an offer to users of the mobile app. An offer can be merely an advertisement for a drink or an actual offer such as a discount or BOGO (buy one get one free). Some users might not receive any offer during certain weeks. The task is to combine transaction, demographic and offer data to determine which demographic groups respond best to which offer type. 
 
-The motivation of this project is to provide insight on the company advertisement strategy to help the company improve the  efficiency by sending offers to targeted customers. 
+The motivation of this project is to provide insight for the company advertisement strategy to help the company improve the  efficiency by sending offers to targeted customers. 
 
-One conclusion from this study is that the customer membership duration is the dominant factor for a successful offer response. 
+One conclusion from this study is that the customer membership duration is the dominant factor for a successful offer response. This will be detailed in the result and discussion. 
 
 ## Libraries and Dependencies
 
 * This workbook can be ran using Python versions 3.*.
 
-* Stardard Python libraries for Machine Learning: NumPy, Pandas, Math, Datetime Sciki-Learn.
+* Stardard Python libraries for Machine Learning: NumPy, Pandas, Math, Datetime, Sciki-Learn.
 
 * Data Visualization librraries: Matplotlib, Seaborn.
 
