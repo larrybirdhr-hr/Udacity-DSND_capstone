@@ -55,4 +55,4 @@ Here is the schema and explanation of each variable in the files:
 This project is to partial fullfillment of Udacity Data Scientist Nanodegree. The data set is simulated data provided by the Starbucks. 
 
 ## Results and Discussion
-Results and detailed discussion are published here. 
+Results and detailed discussion are published [here](https://medium.com/@huangr76/a-predictive-modeling-for-starbucks-offer-response-538ade0d042a). 
